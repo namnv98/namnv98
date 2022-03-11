@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/Ignite-316192?style=flat-square&logo=ignite&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
 </p>
 <h4 align="left">🏃‍♀️&nbsp;Studying...</h4> 
 <p align="left">
