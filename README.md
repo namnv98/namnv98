@@ -28,22 +28,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=namnv98&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 <h4 align="left">🔭&nbsp;&nbsp;Currently working with...</h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-3069FE?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/K8s-3069DE?style=flat-square&logo=kubernetes&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Java-3DDC84?logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?logo=Hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDSL-3394D7"/>
   <br>
-  <img src="https://img.shields.io/badge/Ignite-316192?style=flat-square&logo=ignite&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ignite-316192?logo=ignite&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-f80000?logo=Oracle&logoColor=white"/>&nbsp
 </p>
 <h4 align="left">🏃‍♀️&nbsp;Studying...</h4> 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vuejs-6DB33F?style=flat-square&logo=vuejs&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/OOA-3DDC84?logo=OOA&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/OOD-6DB33F?logo=OOD%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-25A162?logo=OOP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-59666C?logo=TDD&logoColor=white"/>
 </p>
 
 <hr />
