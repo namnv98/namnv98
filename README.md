@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-3DDC84?logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AspectJ-FFA500?logo=AspectJ&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/QueryDSL-3394D7"/>
